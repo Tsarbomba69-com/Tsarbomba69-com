@@ -55,7 +55,7 @@ I'm a passionate software engineer focused on building robust web backend servic
 ## 🤝 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendrick-dias-7ab399121/)
-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@hendrickdias8366)
+- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpagZhdXfHciHU6rjwF1guA)
 - [![Personal Website](https://img.shields.io/badge/Website-222?logo=githubpages&logoColor=white)](https://tsarbomba69-com.github.io/Portfolio/)
 
 ---
